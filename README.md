@@ -1,2 +1,2 @@
 # CPAN116
-Algorithms &amp; Problem Solving Assignments
+Algorithms &amp; Problem Solving Assignments Course
